@@ -1,11 +1,11 @@
-l# McRconToolPlus
+# McRconToolPlus
 
 <div align="center">
 
 ![McRconToolPlus Logo](https://via.placeholder.com/200x80/1e1e2e/cdd6f4?text=McRconToolPlus)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 一个功能强大、界面美观的 Minecraft RCON 工具，支持动画效果和完善的服务器控制台功能。
@@ -35,7 +35,7 @@ pip install mcrcon-tool-plus
 #### 从源码安装
 
 ```bash
-git clone https://github.com/your-username/McRconToolPlus.git
+git clone https://github.com/kjbkshuyiGithub/McRconToolPlus.git
 cd McRconToolPlus
 pip install -e .
 ```
@@ -126,7 +126,7 @@ mcrcon-tool-plus [OPTIONS] [COMMAND]
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/McRconToolPlus.git
+git clone https://github.com/kjbkshuyiGithub/McRconToolPlus.git
 cd McRconToolPlus
 
 # 创建虚拟环境
@@ -219,9 +219,9 @@ A: 在配置文件中设置 `ui.theme`，支持 `dark`、`light` 和自定义颜
 
 ## 📞 联系
 
-- 项目主页: https://github.com/your-username/McRconToolPlus
-- 问题反馈: https://github.com/your-username/McRconToolPlus/issues
-- 讨论区: https://github.com/your-username/McRconToolPlus/discussions
+- 项目主页: https://github.com/kjbkshuyiGithub/McRconToolPlus
+- 问题反馈: https://github.com/kjbkshuyiGithub/McRconToolPlus/issues
+- 讨论区: https://github.com/kjbkshuyiGithub/McRconToolPlus/discussions
 
 ---
 

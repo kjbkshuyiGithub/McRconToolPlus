@@ -16,7 +16,7 @@
    ```bash
    # 在 GitHub 上 Fork 这个项目
    # 然后克隆您的 Fork
-   git clone https://github.com/YOUR_USERNAME/McRconToolPlus.git
+   git clone https://github.com/kjbkshuyiGithub/McRconToolPlus.git
    cd McRconToolPlus
    ```
 
@@ -232,8 +232,8 @@ pytest --cov=src --cov-report=html
 
 ## 📞 联系方式
 
-- GitHub Issues: [项目 Issues 页面](https://github.com/your-username/McRconToolPlus/issues)
-- GitHub Discussions: [项目讨论区](https://github.com/your-username/McRconToolPlus/discussions)
+- GitHub Issues: [项目 Issues 页面](https://github.com/kjbkshuyiGithub/McRconToolPlus/issues)
+- GitHub Discussions: [项目讨论区](https://github.com/kjbkshuyiGithub/McRconToolPlus/discussions)
 
 ---
 
