@@ -1,0 +1,12 @@
+# 核心依赖
+click>=8.0.0
+pydantic>=2.0.0
+PyYAML>=6.0.0
+rich>=13.0.0
+
+# 异步支持
+aiofiles>=23.0.0
+asyncio-throttle>=1.0.0
+
+# 日志和配置
+loguru>=0.7.0
