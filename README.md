@@ -7,7 +7,6 @@ l# McRconToolPlus
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Build Status](https://github.com/your-username/McRconToolPlus/workflows/CI/badge.svg)](https://github.com/your-username/McRconToolPlus/actions)
 
 一个功能强大、界面美观的 Minecraft RCON 工具，支持动画效果和完善的服务器控制台功能。
 

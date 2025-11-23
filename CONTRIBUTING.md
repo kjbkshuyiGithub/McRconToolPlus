@@ -221,7 +221,7 @@ pytest --cov=src --cov-report=html
 1. 更新版本号
 2. 更新 CHANGELOG.md
 3. 创建 Git 标签
-4. GitHub Actions 会自动创建 Release 和发布到 PyPI
+4. 手动创建 GitHub Release 和发布到 PyPI
 
 ## 🤝 社区
 
